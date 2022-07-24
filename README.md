@@ -12,7 +12,6 @@ Hey there! I'm Rishit Patel, a full-stack web developer. I love to create awesom
 <br>
 
 ## 💼 Skills
----
 <br>
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=8c30f5)
@@ -27,7 +26,6 @@ Hey there! I'm Rishit Patel, a full-stack web developer. I love to create awesom
 <br>
 
 ## 📈 GitHub Stats
----
 <br>
 
 [![Rishit Patel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrishit98&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/imrishit98)
