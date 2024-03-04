@@ -27,6 +27,6 @@ Hey there! I'm Rishit Patel, a full-stack web developer. I love to create awesom
 ## 📈 GitHub Stats
 <br>
 
-[![Rishit Patel's GitHub Streak](https://streak-stats.demolab.com?user=imrishit98&theme=radical&card_width=600)](https://git.io/streak-stats)
+[![Rishit Patel's GitHub Streak](https://streak-stats.demolab.com?user=imrishit98&theme=radical&card_width=600)](https://github.com/imrishit98)
 
 [![Rishit Patel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrishit98&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/imrishit98)
