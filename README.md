@@ -13,11 +13,14 @@ Hey there! I'm Rishit Patel, a full-stack web developer. I love to create awesom
 ## 💼 Skills
 <br>
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=8c30f5)
 ![](https://img.shields.io/badge/NextJS-informational?style=flat&logo=next.js&logoColor=white&color=8c30f5)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=8c30f5)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=8c30f5)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=8c30f5)
+![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=TailwindCSS&logoColor=white&color=8c30f5)
+![](https://img.shields.io/badge/Supabase-informational?style=flat&logo=Supabase&logoColor=white&color=8c30f5)
+![](https://img.shields.io/badge/Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=8c30f5)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=8c30f5)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=8c30f5)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=8c30f5)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=8c30f5)
 
