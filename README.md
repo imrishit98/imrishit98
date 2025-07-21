@@ -6,7 +6,7 @@
 
 <br>
 
-Hey there! I'm Rishit Patel, a full-stack web developer. I love to create awesome things for the web. I’m currently building cool sh*t at [ion8.net](https://ion8.net).
+Hey there! I'm Rishit Patel, a web developer. I love to create awesome things for the web. I’m currently building cool sh*t at [Southern East](https://southerneast.com).
 
 <br>
 
